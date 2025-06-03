@@ -791,7 +791,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png" group-logo="",809 Astro Football
+#EXTINF:-1 group-logo="" group-title="⚽ SPORTS FHD" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png" group-logo="",809 Astro Football
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrofootball
