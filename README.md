@@ -72,8 +72,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
-
-#EXTINF:-1 tvg-id="ASTRO OASIS" tvg-name="ASTRO OASIS" group-title="MALAYSIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Astro_Oasis_%282024%29.png",ASTRO OASIS
+#EXTINF:-1 tvg-id="ASTRO OASIS" tvg-name="ASTRO OASIS" group-title="MALAYSIA"  tvg-logo="https://get.perfecttv.net/logo/oasis.png",ASTRO OASIS
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://exm3u.extraott.com/live/1103581436/4099381829/29654.m3u8
 
