@@ -66,20 +66,23 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=okey
 
+
 #EXTINF:-1 tvg-id="alhijrah" ch-number="114" tvg-name="TV ALHIJRAH" tvg-logo="https://get.perfecttv.net/logo/alhijrah.png" group-title="MALAYSIA",110 Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
+
 #EXTINF:-1 tvg-id="ASTRO OASIS" tvg-name="ASTRO OASIS" group-title="MALAYSIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Astro_Oasis_%282024%29.png",ASTRO OASIS
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://exm3u.extraott.com/live/1103581436/4099381829/29654.m3u8
 
+http://exm3u.extraott.com/live/1103581436/4099381829/29654.m3u8
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxMTg5NTAsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.NTi9KRtRVx7WmEF68eq5bkeYqwgJ0rPvb0G1nBfvcSY
+
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
