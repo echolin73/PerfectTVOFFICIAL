@@ -828,10 +828,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrofootball
 
-#EXTINF:-1 group-logo="" group-title="⚽ SPORTS FHD" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
-https://get.perfecttv.net/720.mpd?channel=badmintonsd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwMDg5NDksImlzcyI6IlZSIiwiZXhwIjoxNzQ5MDc2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGE4ODhmNzgtNTY5Yi00MTlhLTgyNmYtNDIzYTMwZGZmODEwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.VRpiqpVWir16VLeWiqsyuYaWypLlbIDJUBH843STis4
+#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMDQ3MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGI5ZDUzNTEtMWE4ZS00NjJkLTg2YjYtYzZlYTBmZWUzYmJjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.4KWKLZ0yfRqTLhSJuQg5b3OR8xYL8r9jqo0mTG6El2s
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON 2" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34738728_ico.png?ts=1746332765", ASTRO BADMINTON 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPROPlayer
