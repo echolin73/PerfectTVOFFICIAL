@@ -860,6 +860,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/112515.ts
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/112511.ts
 
+
 #EXTINF:-1 tvg-id="SONY TEN SPORTS 1" tvg-name="SONY TEN SPORTS 1" group-title="⚽ SPORTS FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", SONY TEN SPORTS 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -867,12 +868,14 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/112511.ts
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
+
 #EXTINF:-1 tvg-id="SONY TEN SPORTS 2" tvg-name="SONY TEN SPORTS 2" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", SONY TEN SPORTS 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", SONY TEN SPORTS 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
