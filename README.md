@@ -869,12 +869,14 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
+
 #EXTINF:-1 tvg-id="SONY TEN SPORTS 4" tvg-name="SONY TEN SPORTS 4" group-title="⚽ SPORTS FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", SONY TEN SPORTS 4 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY TEN SPORTS 5" tvg-name="SONY TEN SPORTS 5" group-title="⚽ SPORTS FHD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", SONY TEN SPORTS 5 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
