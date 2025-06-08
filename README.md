@@ -627,6 +627,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/268273.ts
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://gotit14.xyz/live/2F635BX/ZJX02CY/71433.ts
+
 #=====kids=========
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria.png" group-logo="" ,205 Ceria
@@ -678,8 +679,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/45057.m3u8
 
-#====news====
 
+#====news====
 
 #EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
