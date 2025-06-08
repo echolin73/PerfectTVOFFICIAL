@@ -678,8 +678,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/45057.m3u8
 
-
 #====news====
+
 
 #EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -741,7 +741,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
-
 
 
 #=================== Sport FHD Only =============================================
