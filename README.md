@@ -681,7 +681,6 @@ http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/45057.m3u8
 
 #====news====
 
-
 #EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -722,14 +721,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/skynews.png",607 Sky News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", 608 Bloomberg Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -738,13 +735,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/abcaustralia.png", 609 ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
+
 
 
 #=================== Sport FHD Only =============================================
