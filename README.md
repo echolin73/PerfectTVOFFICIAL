@@ -678,7 +678,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/45057.m3u8
 
+
 #====news====
+
 
 #EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -720,12 +722,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
+
 #EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/skynews.png",607 Sky News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", 608 Bloomberg Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -734,34 +738,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
+
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/abcaustralia.png", 609 ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
-
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="822.astro" tvg-logo="https://get.perfecttv.net/logo/golf.png" group-logo="", 818 Golf
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=golf
-
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="820.astro" tvg-logo="https://get.perfecttv.net/logo/eurosport.png" group-logo="" group-title ="",819 EuroSport
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
-
-#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/nbatv.png",820 NBA TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
-
-#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="Fight Sport"  tvg-logo="https://get.perfecttv.net/logo/fightsport.png", 821 FIGHT SPORTS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 
 #=================== Sport FHD Only =============================================
