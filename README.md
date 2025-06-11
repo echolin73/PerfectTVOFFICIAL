@@ -77,11 +77,12 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria FHD
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk1OTM4NjYsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NjIyNjY2LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjliZTQ5NjItNzkxNS00NjJmLWEwNzItYTdiYTBiNTQ1ODE5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.ACJGYTGBzz24WvJdZ0PFwOsqlHC9gdOgmxwdxfqrDdE
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk2MzE2NjgsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NjgxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYWI0YWRmYmYtMTFlYS00OTA4LWI2NDYtNDUyYzY5OTdmZjdlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.fhxYteBTkFzb1tyfm_hy-Fuky7YtFJ3y427OyeWuQuc
+
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
