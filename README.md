@@ -79,15 +79,13 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-https://hakim45.serv00.net/smarttv.php?id=Ria
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer 
+https://get.perfecttv.net/1080ria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd
+
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
