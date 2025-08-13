@@ -88,7 +88,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163672.m3u8
+http://jomtv.vip:2082/live/Erny112/Jtv0987/27.ts
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,122 Aura
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
